@@ -2,7 +2,6 @@
 [![语言](https://img.shields.io/badge/语言-中文-red)](README.zh-CN.md)
 
 # AI Academic Summary MCP
-
 ## 📋 Project Overview
 
 An intelligent academic paper summarization system based on MCP (Model Context Protocol), designed for research teams to quickly generate high-quality 25-word academic summaries.
